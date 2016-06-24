@@ -13,6 +13,7 @@
 {
     int _a;
     NSString *_name;
+    NSString *carName;
 }
 @property NSMutableArray *objects;
 @end
